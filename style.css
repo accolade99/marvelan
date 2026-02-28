@@ -754,7 +754,7 @@
                 width: 100%;
                 background: white;
                 flex-direction: column;
-                padding: 1rem;
+                padding: 0.5rem 5% 0;
                 text-align: center;
                 box-shadow: var(--shadow-soft);
                 animation: floatIn 0.3s ease-out;
@@ -829,4 +829,5 @@
             .add-to-cart-btn:hover {
                 transform: none;
             }
+
         }
